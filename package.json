@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/microsoft/IoT-For-Beginners.git"
+		"url": "git+https://github.com/unram-if/IoT-For-Beginners.git"
 	},
 	"keywords": [
 		"iot",
@@ -19,9 +19,9 @@
 	"author": "Jim Bennett and team",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/microsoft/IoT-For-Beginners/issues"
+		"url": "https://github.com/unram-if/IoT-For-Beginners/issues"
 	},
-	"homepage": "https://github.com/microsoft/IoT-For-Beginners#readme",
+	"homepage": "https://github.com/unram-if/IoT-For-Beginners#readme",
 	"devDependencies": {
 		"docsify-to-pdf": "0.0.5"
 	}
